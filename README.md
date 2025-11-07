@@ -36,14 +36,12 @@ Coming Soon (Frontend + Backend Deployment)
 | Layer | Technology |
 |------|------------|
 | **Frontend** | React + Vite |
-| **Styling** | CSS / Chakra UI (if used) |
+| **Styling** | CSS / Chakra UI |
 | **Backend** | Node.js, Express.js |
 | **Database** | MongoDB |
 | **Auth** | JWT + bcrypt |
 | **State Management** | Redux Toolkit (if used) |
 
 ---
-
-## 📂 Folder Structure
 
 
